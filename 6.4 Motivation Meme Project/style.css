@@ -1,0 +1,28 @@
+* {
+    font-family: "Caveat", cursive;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    background-color: black;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.bear {
+    border: 5px solid white;
+    width: 100%;
+    height: 65em;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size:40pt;
+}
+
+p {
+    text-align: center;
+    font-size: 30pt;
+}
